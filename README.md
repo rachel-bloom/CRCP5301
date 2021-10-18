@@ -12,7 +12,7 @@ Rachel Bloom is a senior Creative Computation major at Southern Methodist Univer
 
 Artist Statement
 
-	Seasons is a piece rendered in Autodesk Maya and utilizes Java and Processing for environmental setup. Seasons reflects on the many different chapters throughout Bloom’s college career. The piece explores a variety of different mood shifts as each milestone displays visual aesthetics that align with its own story. Each milestone was carefully crafted in Maya and rendered using Arnold lighting and textures. The models are original and each sculpted using Maya’s modeling toolkit. Although Seasons specifically reflects on Bloom’s personal experience, the ambiguity of the 3D models allows for interpretation beyond what has been provided. Bloom implores all viewers to apply their own personal stories to the piece as they are representative of the human experience and is relatable to many. 
+Seasons is a piece rendered in Autodesk Maya and utilizes Java and Processing for environmental setup. Seasons reflects on the many different chapters throughout Bloom’s college career. The piece explores a variety of different mood shifts as each milestone displays visual aesthetics that align with its own story. Each milestone was carefully crafted in Maya and rendered using Arnold lighting and textures. The models are original and each sculpted using Maya’s modeling toolkit. Although Seasons specifically reflects on Bloom’s personal experience, the ambiguity of the 3D models allows for interpretation beyond what has been provided. Bloom implores all viewers to apply their own personal stories to the piece as they are representative of the human experience and is relatable to many. 
   
   
   
