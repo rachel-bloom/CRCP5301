@@ -4,6 +4,7 @@ C3 Capstone
 Rachel Bloom
 CRCP 5301
 
+Project Title: SMU Sandbox
 
 Artist Bio
 
@@ -14,5 +15,7 @@ Artist Statement
 
 SMU Sandbox is a piece rendered in Autodesk Maya and utilizes JavaScript, CSS, HTML and After Effects for environmental setup. SMU Sandbox reflects on the many different chapters throughout Bloom’s college career. The piece explores a variety of different mood shifts as each milestone displays visual aesthetics that align with its own story. Each milestone was carefully crafted in Maya and rendered using Arnold lighting and textures. The models are each sculpted and textured using Maya’s modeling toolkit. Although Seasons specifically reflects on Bloom’s personal experience, the ambiguity of the 3D models allows for interpretation beyond what has been provided. Bloom implores all viewers to apply their own personal stories to the piece as they are representative of the human experience and is relatable to many. 
   
-  
+Project Description
+
+SMU Sandbox is an interdiscplinary project exploring the fields of animation, code, and digital visual effects. The project is housed on an HTML site and displays four different 3D renders throughout the site. Users are encouraged to explore the website at their own pace and to interpret each 3D piece in their own way. SMU Sandbox hones in on the personal aspect of artwork, therefore, each interaction witht the site should be intentional and emotional.
   
