@@ -17,9 +17,10 @@ SMU Sandbox is a piece rendered in Autodesk Maya and utilizes JavaScript, CSS, H
   
 Project Description
 
-SMU Sandbox is an interdiscplinary project exploring the fields of animation, code, and digital visual effects. The project is housed on an HTML site and displays four different 3D renders throughout the site. Users are encouraged to explore the website at their own pace and to interpret each 3D piece in their own way. SMU Sandbox hones in on the personal aspect of artwork, therefore, each interaction witht the site should be intentional and emotional.
-----
+SMU Sandbox is an interdiscplinary project exploring the fields of animation, code, and digital visual effects. The project is housed on an HTML site and displays four different 3D renders throughout the site. Users are encouraged to explore the website at their own pace and to interpret each 3D piece in their own way. SMU Sandbox hones in on the personal aspect of artwork, therefore, each interaction with the site should be intentional and emotional.
+
 According to the Merriam-Webster English Dictionary, the word 'capstone' is defined as "the high point : crowning achievement." A capstone is a culmination of many things: what has been learned, what has been done, and what will be done going forward. The best way to demonstrate such things is to illustrate the journey leading up to the capstone. The rest speaks for itself.
+----
    
 
   
